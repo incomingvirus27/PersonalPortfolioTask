@@ -1,0 +1,70 @@
+#container{
+	min-height: 700px;
+}
+
+ .links a:hover{	
+	text-decoration: underline;	
+ }
+footer{	
+	background: #1a0000;
+}
+.text-green{
+	color: #9ac860;
+}
+.imgbackground{
+	background: url('../images/Yahgozie.png');
+	background-size: cover;	
+	padding-top: 150px;
+	padding-left: 50px;
+	height: 450px;
+}
+.heading{
+	font-size: 60px;	
+}
+.paragraph-text{
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-left: 50px;		
+}
+.fa{
+	color: #fff;
+	border-radius: 50%;
+}
+
+/* contact */
+
+.bg-contact{
+	background: #000;
+	height: 450px;
+}
+.bg-contact{
+	padding-top: 150px;
+	padding-left: 50px;
+}
+.stay{
+	padding: 70px;
+}
+form{
+	padding: 10px 20px;
+
+}
+textarea{
+	width: 100%;
+	height: 300px;
+	resize: none;
+}
+iframe{
+	width: 100%;
+}
+.spanned-paragraph{
+	padding: 10px;
+}
+.contact{
+	color: #008080;
+}
+/* portfolio */
+.portfolios{
+	width: 100%;
+	margin: auto;
+	background: red;
+}
