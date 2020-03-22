@@ -26,9 +26,10 @@ footer{
 	text-transform: uppercase;
 	padding-left: 50px;		
 }
-.fa{
-	color: #fff;
-	border-radius: 50%;
+
+hr{
+	width: 5%;
+	border: 3px solid black;
 }
 
 /* contact */
@@ -67,4 +68,10 @@ iframe{
 	width: 100%;
 	margin: auto;
 	background: red;
+}
+.p-box{
+	border:2px solid white;
+	border-radius: 30px;
+	height:50px;
+	width:50px;
 }
